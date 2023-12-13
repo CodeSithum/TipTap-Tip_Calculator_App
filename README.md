@@ -1,5 +1,5 @@
 # Tip Tap Tip Calculator
-![App Logo](/path/to/app-logo.png)
+![App Logo](/app-logo.png)
 
 ## Overview
 Tip Tap Tip Calculator is a simple Android application that helps users calculate tips and split bills among friends. The app allows users to input the bill amount, select a tip percentage, and choose the number of people to split the bill with.
