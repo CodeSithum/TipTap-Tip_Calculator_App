@@ -21,7 +21,7 @@ Tip Tap Tip Calculator is a simple Android application that helps users calculat
 ### Installation
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/your-username/TipTapTipCalculator.git
+    git clone https://github.com/CodeSithum/TipTap-Tip_Calculator_App.git
     ```
 2. Open the project in Android Studio.
 3. Run the app on an emulator or a physical Android device.
