@@ -10,8 +10,8 @@ Tip Tap Tip Calculator is a simple Android application that helps users calculat
 - User-friendly interface for easy navigation.
 
 ## Screenshots
-![Screenshot 1](/screenshot/Tiptap-screenshot1.png)
-![Screenshot 2](/screenshot/Tiptap-screenshot2.png)
+![Screenshot 1](/screenshots/Tiptap-screenshot1.png)
+![Screenshot 2](/screenshots/Tiptap-screenshot2.png)
 
 ## Getting Started
 ### Prerequisites
