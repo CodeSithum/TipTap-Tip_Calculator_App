@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">TipTap</string>
+
+    //SPLASH SCREEN
+    <string name="Description">logo description</string>
+
+    //MAIN ACTIVITY
+    <string name="title">How much is your subtotal?</string>
+    <string name="Subtotal">Subtotal</string>
+    <string name="Enteramount">Enter amount</string>
+    <string name="btnnext">NEXT</string>
+    <string name="btn0">0</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btndot">.</string>
+
+    //SECOND ACTIVITY
+    <string name="secondtitle">SUMMARY</string>Subtotal
+    <string name="emptyvalue">00</string>
+    <string name="Tip">Tip</string>
+    <string name="zeroprecent">(0%)</string>
+    <string name="hundred">100%</string>
+    <string name="zero">0%</string>
+    <string name="Suggesttipis">Suggest tip is </string>
+    <string name="emptydecimal">0.00</string>
+    <string name="SUGGESTEDTIP">SUGGESTED TIP</string>
+    <string name="Amountforoneperson">Amount for one person</string>Tip for one person
+    <string name="Tipforoneperson">Tip for one person</string>
+    <string name="SPLITTHISCHECKINTO">SPLIT THIS CHECK INTO</string>
+    <string name="TotalAmount">Total Amount</string>
+
+
+    //ADMOB ADS
+    <string name="adsDescription">google ads</string>
+    <string name="admob_id">ca-app-pub-9657498808562508~9475921102</string>
+    <string name="admob_banner_id">ca-app-pub-9657498808562508/5618251355</string>
+    <string name="admob_second_banner_id">ca-app-pub-9657498808562508/4961390209</string>
+</resources>
