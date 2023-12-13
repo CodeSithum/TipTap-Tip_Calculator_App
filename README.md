@@ -1,4 +1,4 @@
-# Tip Tap Tip Calculator
+# TipTap - Tip Calculator
 ![App Logo](/app-logo.png)
 
 ## Overview
@@ -43,10 +43,6 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## License
 This project is licensed under the MIT License.
-
-## Acknowledgments
-- [List any external libraries or resources used in your project]
-- [Give credit to authors or developers of external code/resources]
 
 ## Contact
 sithum udayanga - sithumudayanga659@gmail.com
