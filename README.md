@@ -49,6 +49,6 @@ This project is licensed under the MIT License.
 - [Give credit to authors or developers of external code/resources]
 
 ## Contact
-[Your Name] - [Your Email Address]
+sithum udayanga - sithumudayanga659@gmail.com
 
-**Project Link:** [Link to your GitHub repository]
+**Project Link:** https://github.com/CodeSithum/TipTap-Tip_Calculator_App/
